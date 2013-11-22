@@ -34,7 +34,7 @@ package com.example.vaadintest;
 		/* User interface components are stored in session. */
 		private Table contactList = new Table();
 		private TextField searchField = new TextField();
-		private Button addNewContactButton = new Button("New");
+		private Button addNewContactButton = new Button("Add");
 		private Button removeContactButton = new Button("Remove this contact");
 		private FormLayout editorLayout = new FormLayout();
 		private FieldGroup editorFields = new FieldGroup();
