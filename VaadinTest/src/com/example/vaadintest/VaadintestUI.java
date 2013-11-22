@@ -45,7 +45,7 @@ package com.example.vaadintest;
 		private static final String MTEL = "Mobile Phone";
 		private static final String[] fieldNames = new String[] { FNAME, LNAME,
 				COMPANY, "Mobile Phone", "Work Phone", "Home Phone", "Work Email",
-				"Home Email", "Street", "City", "Zip", "State", "Country" , "MEMO"};
+				"Home Email", "Street", "City", "Zip", "State", "Country" , "ÖÐÎÄ"};
 
 		/*
 		 * Any component can be bound to an external data source. This example uses
@@ -275,6 +275,7 @@ package com.example.vaadintest;
 			String[] lnames = { "Smith", "Gordon", "Simpson", "Brown", "Clavel",
 					"Simons", "Verne", "Scott", "Allison", "Gates", "Rowling",
 					"Barks", "Ross", "Schneider", "Tate" };
+			
 			for (int i = 0; i < 1000; i++) {
 				Object id = ic.addItem();
 				ic.getContainerProperty(id, FNAME).setValue(
