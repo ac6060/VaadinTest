@@ -45,7 +45,7 @@ package com.example.vaadintest;
 		private static final String MTEL = "Mobile Phone??";
 		private static final String[] fieldNames = new String[] { FNAME, LNAME,
 				COMPANY, "Mobile Phone", "Work Phone", "Home Phone", "Work Email",
-				"Home Email", "Street", "City", "Zip", "State", "Country" , "中文3"};
+				"Home Email", "Street", "City", "Zip", "State", "Country" , "中文3A"};
 
 		/*
 		 * Any component can be bound to an external data source. This example uses
