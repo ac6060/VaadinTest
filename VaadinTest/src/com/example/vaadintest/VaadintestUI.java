@@ -39,6 +39,7 @@ package com.example.vaadintest;
 		private FormLayout editorLayout = new FormLayout();
 		private FieldGroup editorFields = new FieldGroup();
 
+		
 		private static final String FNAME = "First Name";
 		private static final String LNAME = "Last Name";
 		private static final String COMPANY = "Company";
