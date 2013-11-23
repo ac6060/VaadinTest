@@ -42,10 +42,10 @@ package com.example.vaadintest;
 		private static final String FNAME = "First Name";
 		private static final String LNAME = "Last Name";
 		private static final String COMPANY = "Company";
-		private static final String MTEL = "Mobile Phone";
+		private static final String MTEL = "Mobile Phone??";
 		private static final String[] fieldNames = new String[] { FNAME, LNAME,
 				COMPANY, "Mobile Phone", "Work Phone", "Home Phone", "Work Email",
-				"Home Email", "Street", "City", "Zip", "State", "Country" , "ÖÐÎÄ"};
+				"Home Email", "Street", "City", "Zip", "State", "Country" , "ä¸­æ–‡"};
 
 		/*
 		 * Any component can be bound to an external data source. This example uses
