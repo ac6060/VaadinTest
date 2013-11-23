@@ -39,14 +39,13 @@ package com.example.vaadintest;
 		private FormLayout editorLayout = new FormLayout();
 		private FieldGroup editorFields = new FieldGroup();
 
-		
 		private static final String FNAME = "First Name";
 		private static final String LNAME = "Last Name";
 		private static final String COMPANY = "Company";
 		private static final String MTEL = "Mobile Phone??";
 		private static final String[] fieldNames = new String[] { FNAME, LNAME,
 				COMPANY, "Mobile Phone", "Work Phone", "Home Phone", "Work Email",
-				"Home Email", "Street", "City", "Zip", "State", "Country" , "中文"};
+				"Home Email", "Street", "City", "Zip", "State", "Country" , "中e文2"};
 
 		/*
 		 * Any component can be bound to an external data source. This example uses
